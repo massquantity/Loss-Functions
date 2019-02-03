@@ -5,6 +5,6 @@
 
 ![](https://raw.githubusercontent.com/massquantity/Loss-Functions/master/Classification.png)
 
-Comparison of regressin & classification loss functions
+### Comparison of regressin & classification loss functions
 
-sdf
+
