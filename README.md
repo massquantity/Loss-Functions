@@ -7,7 +7,3 @@
 
 ### Comparison of regressin & classification loss functionss
 
-
-![](https://upload-images.jianshu.io/upload_images/2236479-0fb9a7d55ebd37f6.png?imageMogr2/auto-orient/strip|imageView2/2/w/1012/format/webp)
-
-![](https://upload-images.jianshu.io/upload_images/2236479-3e3bd535510a36ef.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/780/format/webp)
