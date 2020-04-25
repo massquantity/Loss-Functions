@@ -8,6 +8,6 @@
 ### Comparison of regressin & classification loss functionss
 
 
-![](https://img2020.cnblogs.com/blog/1188231/202004/1188231-20200425140906613-720457909.png)
+![](https://img2020.cnblogs.com/blog/1188231/202004/1188231-20200422203159245-1252742314.png)
 
 ![](https://img2018.cnblogs.com/blog/1188231/201903/1188231-20190306233024847-1566104892.png)
